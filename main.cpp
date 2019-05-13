@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    //Tests
+    //Test
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
