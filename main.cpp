@@ -1,7 +1,12 @@
 #include <iostream>
+using namespace std;
 
+int sum (int x, int y) {
+    return x + y;
+}
 int main() {
-    //Test
-    std::cout << "Hello, World!" << std::endl;
+
+    cout << sum(5, 10);
+
     return 0;
 }
